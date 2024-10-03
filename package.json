@@ -2,7 +2,7 @@
   "name": "tour",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/Pastortz.github.io/Tour_Salcaja",
+  "homepage": "https://github.com/Pastortz/Virtual_Tour/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
