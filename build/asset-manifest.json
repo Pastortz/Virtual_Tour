@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Pastortz/Virtual_Tour/build/static/css/main.e5d41c47.css",
-    "main.js": "/Pastortz/Virtual_Tour/build/static/js/main.c7b893a2.js",
-    "static/js/787.314474ed.chunk.js": "/Pastortz/Virtual_Tour/build/static/js/787.314474ed.chunk.js",
+    "main.css": "/Pastortz/Virtual_Tour/build/static/css/main.3b33efb9.css",
+    "main.js": "/Pastortz/Virtual_Tour/build/static/js/main.26245086.js",
+    "static/js/787.a76aef1c.chunk.js": "/Pastortz/Virtual_Tour/build/static/js/787.a76aef1c.chunk.js",
     "static/media/sprites.svg": "/Pastortz/Virtual_Tour/build/static/media/sprites.c08944fed399e84633d0.svg",
     "index.html": "/Pastortz/Virtual_Tour/build/index.html",
     "static/media/grabbing.svg": "/Pastortz/Virtual_Tour/build/static/media/grabbing.92ec62eb995e79248066.svg",
     "static/media/grab.svg": "/Pastortz/Virtual_Tour/build/static/media/grab.6a052e927d39314632fd.svg",
     "static/media/background.svg": "/Pastortz/Virtual_Tour/build/static/media/background.73c746e88409ccb4b512.svg",
     "static/media/compass.svg": "/Pastortz/Virtual_Tour/build/static/media/compass.0f193cd39061ea43cc46.svg",
-    "main.e5d41c47.css.map": "/Pastortz/Virtual_Tour/build/static/css/main.e5d41c47.css.map",
-    "main.c7b893a2.js.map": "/Pastortz/Virtual_Tour/build/static/js/main.c7b893a2.js.map",
-    "787.314474ed.chunk.js.map": "/Pastortz/Virtual_Tour/build/static/js/787.314474ed.chunk.js.map"
+    "main.3b33efb9.css.map": "/Pastortz/Virtual_Tour/build/static/css/main.3b33efb9.css.map",
+    "main.26245086.js.map": "/Pastortz/Virtual_Tour/build/static/js/main.26245086.js.map",
+    "787.a76aef1c.chunk.js.map": "/Pastortz/Virtual_Tour/build/static/js/787.a76aef1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5d41c47.css",
-    "static/js/main.c7b893a2.js"
+    "static/css/main.3b33efb9.css",
+    "static/js/main.26245086.js"
   ]
 }
